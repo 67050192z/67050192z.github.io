@@ -1,3 +1,4 @@
-function Songpon(){
+function showAlert(){
     alert("Alert Massage")
+
 }
