@@ -1,4 +1,4 @@
 function showAlert(){
-    alert("Alert Massage")
-
+    alert("Alert Massage");
 }
+
